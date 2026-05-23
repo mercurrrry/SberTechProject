@@ -7,7 +7,7 @@ export function Footer() {
             © {new Date().getFullYear()} Мониторинг кредитных сделок. Все права защищены.
           </p>
           <p className="text-sm text-muted-foreground">
-            Версия 1.0 | Данные защищены согласно 152-ФЗ
+            Версия 1.0 | Данные защищены
           </p>
         </div>
       </div>
