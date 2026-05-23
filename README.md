@@ -10,4 +10,5 @@ TypeScript
 API Routes (Next.js)
 Lucide Icons
 Shadcn/ui components
+
 Установка pnpm install pnpm add lucide-react pnpm run dev
